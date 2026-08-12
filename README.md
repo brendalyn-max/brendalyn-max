@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--Hi, I'm Brendalyn 👋
+Hi, I'm Brendalyn 👋
 👩🏽‍💻 Software Engineer | Aspiring Data Analyst | Tech Enthusiast
 Welcome to my GitHub! I'm Brendalyne, a motivated and curious tech enthusiast from Uganda who is passionate about building useful digital solutions and continuously learning new technologies.
 
