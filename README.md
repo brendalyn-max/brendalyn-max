@@ -17,6 +17,7 @@ I started my journey in technology with a strong interest in software developmen
 🤖 Exploring Artificial Intelligence
 📚 Always learning and building new projects
 🎯 Goal: Build a successful career in technology
+
 🛠️ Technologies & Tools
 Languages
 Python
@@ -35,6 +36,7 @@ VS Code
 Netlify
 WordPress
 Elementor
+
 Currently Exploring
 🤖 Artificial Intelligence
 📊 Data Analytics
@@ -75,15 +77,27 @@ I've worked on projects involving:
 
 HTML & CSS ↓ Python ↓ Git & GitHub ↓ Django ↓ APIs ↓ JavaScript ↓ Artificial Intelligence ↓ Data Analytics ↓ Full-Stack Development
 
-🎯 My Goals 🚀 Become a strong Full-Stack Developer 📊 Become a skilled Data Analyst 🤖 Build useful AI-powered applications 🌍 Work on technology that solves real-world problems 💼 Build a successful career in tech 🤝 Contribute to meaningful projects and open source 💡 My Philosophy
+🎯 My Goals 
+🚀 Become a strong Full-Stack Developer
+📊 Become a skilled Data Analyst
+🤖 Build useful AI-powered applications 
+🌍 Work on technology that solves real-world problems 
+💼 Build a successful career in tech 
+🤝 Contribute to meaningful projects and open source 
+
+💡 My Philosophy
 
 "You don't have to know everything before you start. Start building, keep learning, and improve along the way."
 
-📫 Let's Connect 💼 LinkedIn: https://www.linkedin.com/in/brendalyne-musoki/ 🌐 Portfolio: https://musokibrendalyn.netlify.app/ 📧 Email: brendalyncohenn@gmail.com ⭐ Thanks for Visiting!
+📫 Let's Connect 
+💼 LinkedIn: https://www.linkedin.com/in/brendalyne-musoki/ 
+🌐 Portfolio: https://musokibrendalyn.netlify.app/ 
+📧 Email: brendalyncohenn@gmail.com 
+⭐ Thanks for Visiting!
 
 I'm still learning, still building, and still growing.
 
 Feel free to explore my repositories! 🚀
-**brendalyn-max/brendalyn-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
