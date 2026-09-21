@@ -89,11 +89,11 @@ My long-term goal is to build reliable, useful, and impactful digital products w
 
 ## Let's Connect
 
-LinkedIn: https://www.linkedin.com/in/brendalyne-musoki/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/brendalyne-musoki/)
 
-Portfolio: https://musokibrendalyn.netlify.app/
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat\&logo=google-chrome\&logoColor=white)](https://musokibrendalyn.netlify.app/)
 
-Email:brendalynecohenn@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:brendalynecohenn@gmail.com)
 
 ---
 
